@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <p>
-<img src= "https://raw.githubusercontent.com/yuriXhiudy/up/main/uploads/file_1749065357250.jpg" alt="YAKASHI BASE" width="720">
+<img src= "https://raw.githubusercontent.com/yuriXhiudy/up/main/uploads/file_1749246603792.jpg" alt="YAKASHI BASE" width="720">
 </p>
 
 <p align="center">
