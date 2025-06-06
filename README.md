@@ -31,7 +31,7 @@ Necessário digitar y quando necessario.
 ## Clonando repositorio
 **3° Comando**
 ```
-gh repo clone Matheusgamerss/YAKASHI-BASE
+cd /sdcard && git clone https://github.com/Matheusgamerss/YAKASHI-BASE.git
 ```
 Espere carregar tudo
 
